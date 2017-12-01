@@ -171,15 +171,15 @@ user object:
 {
   activities: {
     2342343: {
-      actioninfo: {type: 'post', postid: 987238942, wholiked: [23423, 234234, 45345] },
+      action: {type: 'post', postid: 987238942, wholiked: [23423, 234234, 45345] },
       date: '8383'
     },
     9238492: {
-      actioninfo: {type: 'like', postid: 2423423},
+      action: {type: 'like', postid: 2423423},
       date: '8383'
     },
     89237984: {
-      actioninfo: {}},
+      action: {type: 'comment', commentid: 2423423},
       date: '8383'
     }
   },
