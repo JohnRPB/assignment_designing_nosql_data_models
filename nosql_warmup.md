@@ -44,8 +44,7 @@
           312:{reservedTable:123, reserved:true},
           312:{reservedTable:123, reserved:true},
           312:{reservedTable:123, reserved:true}
-         },
-  reservations:[]
+         }
   },
   // schedule to update current snapshot object
   {
